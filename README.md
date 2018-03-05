@@ -1,7 +1,6 @@
 # Bronte Website
 --------
 
-https://codexponent.github.io/brontewebsite/
 Bronte Website solves the problem of third mean. To be exact, there are still many places where the vendor can't directly sell their products to the customer and the customer can't buy the products directly from the vendor in cheap price. There's always the middle man who gets the significant amount of profit. <br />
 Enter Bronte Website. This website allows the Vendor to directly participate with the customer. The customer also gets directly involved with the Vendor. There's no middle man. Our site is only the platform to support this type of business. A new person can add them as a vendor and start selling stuff. If his/her stuff is bought, then he must deliver the goods on the given timeframe. The money is transacted via paypal (currently sandbox) which directly goes into the vendors account. So, everything is systematic.<br />
 
@@ -24,6 +23,11 @@ To begin using this project, follow the following options to get started:
 -------
 
 - Run this website on your XAMPP Server
+
+## Run
+-------
+
+https://codexponent.github.io/brontewebsite/
 
 ## Contribute
 ----------
