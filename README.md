@@ -1,12 +1,10 @@
 # Bronte Website
 --------
 
-React CRUD Application is a Simple Create, Read, Update and Delete of some data taken from Restful API and made from React JS + Node JS Application. React JS is the frontend while Node JS works on the backend of the code. <br /><br />
-Why this architecture? It is made like this to solve the Cross Origin Resource Sharing (CORS) Error from any ways possible. The REST API (which is in Spring Framework) is working on the protocol http and the React app is working on the protocol https. So you get the point. I will be posting this really soon on my blog (https://medium.com/@sulabh4/). Follow me on that. <br /> <br />
-For the API call, I have used axios which is really small and easy than the AJAX + Promise code. Axios uses promise based HTTP client for the browser and node.js.<br /><br />
-Yes, and also, Material UI is used to enhance the page. All the looks and feels of the page resembles to Google Material Design.<br /> <br />
-A Real Production Application can be made with this codebase if contributors are there to help. If anybody is interested than they can also edit the REST API, which is on Spring, is also on the other side of the repository. Here's a quick link for that (https://github.com/codexponent/springcrudapp). Everybody is welcome!!<br /> <br />
+Bronte Website solves the problem of third mean. To be exact, there are still many places where the vendor can't directly sell their products to the customer and the customer can't buy the products directly from the vendor in cheap price. There's always the middle man who gets the significant amount of profit. <br />
+Enter Bronte Website. This website allows the Vendor to directly participate with the customer. The customer also gets directly involved with the Vendor. There's no middle man. Our site is only the platform to support this type of business. A new person can add them as a vendor and start selling stuff. If his/her stuff is bought, then he must deliver the goods on the given timeframe. The money is transacted via paypal (currently sandbox) which directly goes into the vendors account. So, everything is systematic.<br />
 
+Bronte Website is made from HTML, CSS, PHP and Javascript. It also uses MySQL as a storage medium. The backend was on php so github couldn't launch the site. So we made it into static page but feel free to download the website and run for yourself in your xampp server. A real production web application can be made with this codebase if contributors are there to help. Everybody is welcome!!<br /> 
 ![alt text](https://i.imgur.com/o6kgTtx.png)
 
 ## Status
