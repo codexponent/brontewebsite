@@ -7,7 +7,7 @@ For the API call, I have used axios which is really small and easy than the AJAX
 Yes, and also, Material UI is used to enhance the page. All the looks and feels of the page resembles to Google Material Design.<br /> <br />
 A Real Production Application can be made with this codebase if contributors are there to help. If anybody is interested than they can also edit the REST API, which is on Spring, is also on the other side of the repository. Here's a quick link for that (https://github.com/codexponent/springcrudapp). Everybody is welcome!!<br /> <br />
 
-![alt text](http://url/to/img.png)
+![alt text](https://i.imgur.com/o6kgTtx.png)
 
 ## Status
 --------
